@@ -8,7 +8,7 @@ I am a **2nd year Computer Science student at Babeș-Bolyai University** in Cluj
 - **Tools:** Docker, Makefile, CMake
 
 ### 🔭 Current Focus
-- Building a **coffee beans finder**: [RoBean](https://github.com/rempill/RoBean) - A simple and optimal solution for coffee enthusiasts, primarily developed in Python.
+- Building a **coffee beans finder**: [RoBean](https://github.com/rempill/RoBean) - A simple and optimal solution for coffee enthusiasts based in Cluj-Napoca, primarily developed in Python.
 - Building a **Social Network** in Java: [SocialNetwork](https://github.com/rempill/SocialNetwork) - Simple network with user accounts and chat functionality, using JavaFX for the GUI.
 
 ### 📫 How to reach me

@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mihai-Catalin Lirca 👋
 
-<!--
-**rempill/rempill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **2nd year Computer Science student at Babeș-Bolyai University** in Cluj-Napoca, passionate about web development and building efficient software systems.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** -
+- **Web:** -
+- **Tools:** -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+-
+-
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/mihai-c%C4%83t%C4%83lin-lirca-a99969377/)
